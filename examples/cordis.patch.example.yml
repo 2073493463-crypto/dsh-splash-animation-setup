@@ -1,0 +1,17 @@
+# 追加到 <DSH_HOME>/profiles/desktop/cordis.patch.yml 的末尾。
+# 如果已经存在同 id 的条目，直接修改那一项，不要重复追加。
+#
+# src 为空表示先不播放，等你在“设置 → 插件 → 开屏动画”里选择视频。
+# 也可以写成 Windows 路径，例如：
+#   src: 'D:\Videos\opening.mp4'
+- id: dsh-splash-animation
+  name: dsh-splash-animation
+  config:
+    src: ""
+    fit: contain
+    playbackRate: 1
+    duration: 0
+    fadeOutMs: 600
+    skip: button
+    muted: false
+    volume: 0.6

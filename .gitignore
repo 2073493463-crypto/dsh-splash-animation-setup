@@ -1,0 +1,29 @@
+# 依赖
+node_modules/
+.pnpm-store/
+
+# 构建与缓存
+dist/
+build/
+.cache/
+*.log
+
+# 本机配置与凭据
+.env
+.env.*
+config.local.json
+*.local
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# 压缩包与临时文件
+*.zip
+*.7z
+*.tmp
+*.bak
