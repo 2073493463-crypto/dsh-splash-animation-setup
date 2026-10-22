@@ -1,7 +1,11 @@
-# 发布到 GitHub
+# 复制/发布到 GitHub
 
-本仓库已经按开源仓库的结构整理好，`LICENSE`、`README.md`、`docs/`、
-`scripts/`、`examples/` 都已就位。
+当前仓库已发布在：
+
+<https://github.com/2073493463-crypto/dsh-splash-animation-setup>
+
+本文保留给 fork、迁移或把同样内容发布到自己账号的场景。
+`LICENSE`、`README.md`、`docs/`、`scripts/`、`examples/` 都已就位。
 
 发布需要一个 GitHub 账号。以下三种方式任选一种。
 
