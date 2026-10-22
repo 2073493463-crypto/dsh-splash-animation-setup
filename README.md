@@ -1,5 +1,8 @@
 # DSH Desktop 开屏动画安装指南
 
+[![release](https://img.shields.io/github/v/release/2073493463-crypto/dsh-splash-animation-setup)](https://github.com/2073493463-crypto/dsh-splash-animation-setup/releases)
+[![license](https://img.shields.io/github/license/2073493463-crypto/dsh-splash-animation-setup)](LICENSE)
+
 在 **DeepSeek Harness 桌面版（Windows）** 中安装、配置和排查社区插件
 [`dsh-splash-animation`](https://github.com/KDDKBD/DeepSeek-splash-animation) 的可复现流程。
 
@@ -28,6 +31,8 @@
 整个过程不修改 `app.asar`，所以 DSH 自动更新不会把它覆盖掉；卸载插件或清除配置即可恢复原状。
 
 ## 快速开始
+
+也可以直接从 [Releases](https://github.com/2073493463-crypto/dsh-splash-animation-setup/releases) 下载 ZIP。
 
 在 **普通 PowerShell** 中运行（不要通过 DSH 的沙箱终端运行）：
 
